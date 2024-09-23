@@ -4,7 +4,7 @@
 
 I'm a **Senior Techno-Functional Support Engineer** with expertise in Interfaces, Integrations, and Channels. My focus is on improving operational performance through proactive monitoring, change management, and optimization of processes and controls.
 
-- 🌱 I’m currently improving my skills in cloud infrastructure, DevOps, and automation tools.
+- 🌱 I’m currently improving my skills in Data enginerering, cloud infrastructure, DevOps, and automation tools.
 - 🔭 I’m always looking for ways to innovate and streamline business processes.
 - 💬 Ask me about SQL, Oracle, Linux, and systems integration.
 - ⚡ Fun fact: I love solving complex problems with simple solutions.
